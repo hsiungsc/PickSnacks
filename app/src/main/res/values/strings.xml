@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pick Snacks</string>
+    <string name="submit_button">Submit</string>
+    <string name="veggie">Viggie</string>
+    <string name="non_viggie">Non-Veggie</string>
+    <string name="dialog_title">Create New Snack:</string>
+    <string name="name_label">Snack Name:</string>
+    <string name="duplicated_snak_name">Already exist!</string>
+    <string name="no_selection">Please select at least one snack!"</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="selection_dlg_msg">You selected these snacks:</string>
+</resources>
